@@ -24,6 +24,8 @@
 [How to make a palette swap shader that works withn non-pixel art sprites?](https://gamedev.stackexchange.com/questions/143547/how-to-make-a-palette-swap-shader-that-works-withn-non-pixel-art-sprites/144570#144570)
 
 
+[Image effect on specific part of objects](https://www.linkedin.com/pulse/image-effect-specific-part-objects-seyed-morteza-kamali/)
+
 ## [My book about shaders](https://github.com/smkplus/ShaderInDepth)
 
  [Inverse Effect](https://www.linkedin.com/pulse/inverse-shader-unity-seyed-morteza-kamali/)
